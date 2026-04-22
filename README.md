@@ -143,13 +143,26 @@ activity_main.xml
 ```
 
 
-
 ## OUTPUT
 
+# 1.Oncreated execution 
+
 <img width="1919" height="1079" alt="1" src="https://github.com/user-attachments/assets/0ba67dee-c3b9-4397-8dc2-dac5e83c4450" />
+
+# 2.Onstart execution 
+
 <img width="1919" height="1079" alt="2" src="https://github.com/user-attachments/assets/b6a8660b-777c-43c4-aeec-9ae86ad1225d" />
+
+# 3.Onresume execution 
+
 <img width="1916" height="1078" alt="3" src="https://github.com/user-attachments/assets/ee463eb5-7166-4ec1-8ee2-f5f6c515cdd4" />
+
+# 4.Onrestart execution 
+
 <img width="1919" height="1079" alt="4" src="https://github.com/user-attachments/assets/c9297476-abea-47a1-b7d7-a050dea5a430" />
+
+# 5.Onpause execution 
+
 <img width="1919" height="1079" alt="5" src="https://github.com/user-attachments/assets/5d7dd929-7146-4c25-934e-ef64d10e38b6" />
 
 
